@@ -1,4 +1,4 @@
-# Docker for Laravel & VueJs & TailwindCss
+# Docker for Laravel & VueJs
 Welcome to the Docker Starter Kit for Laravel and Vue.js with TailwindCss! This repository contains all the necessary files to get a new project up and running quickly and easily using Docker.
 <hr>
   <p align="center">
